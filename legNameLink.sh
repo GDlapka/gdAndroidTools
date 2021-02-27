@@ -1,0 +1,1 @@
+am start -a android.intent.action.VIEW -d https://titanbot.ru/legion/
